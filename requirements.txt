@@ -5,4 +5,5 @@ scikit-learn
 xgboost
 catboost
 pathlib
+dill
  #TO connect requirements.txt with setup.py
