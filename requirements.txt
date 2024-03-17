@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
+scikit-learn
+xgboost
+catboost
+pathlib
  #TO connect requirements.txt with setup.py
